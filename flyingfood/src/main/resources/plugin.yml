@@ -1,0 +1,6 @@
+name: Flyingfood
+version: '${project.version}'
+main: flyingfoodplugin.flyingfood.Flyingfood
+api-version: 1.19
+authors: [ FlyingCook1e ]
+description: Allows you to craft cookies to fly!
